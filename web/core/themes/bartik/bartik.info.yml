@@ -20,6 +20,7 @@ version: VERSION
 core: 8.x
 libraries:
   - bartik/global-styling
+  - bartik/global-scripts
 
 libraries-override:
   classy/base: bartik/classy.base
